@@ -5,4 +5,4 @@ Under construction...
 
 ## 🔗 Demo
 
-https://minecraft.miloszkotarba.tech/banlist.php
+https://minecraft.miloszkotarba.tech
